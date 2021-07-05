@@ -13,11 +13,10 @@
 4. Model creation. 
 
 **Algorithms Tried** ---
-1. Lasso Regression.
+1. Multiple Linear Regression.
 2. Ridge Regression.
-3. Random Forest.
-4. XGBoost
-5. Linear Regression.
+3. Random Forest
+4. AdaBoost
 
 **Learnings** --- 
 1. Learnt how to handle missing values .
@@ -27,6 +26,7 @@
 5. Feature selection techniques explored.
 6. Tried to imporve model performance by performing hyperparameter tuning.
 
-
+**Others**-- 
+1. The reason to choose this dataset was large number of null values, presence of categorial features and numerical features and presence of large number of columns.
 
 
