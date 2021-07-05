@@ -1,6 +1,6 @@
 # House_Price_Prediction
 
-**Problem Type** --- Regression Problem Statemnt.
+**Problem Type** --- Regression Problem Statement.
 
 **Project Aim** --- To predict house prices.
 
