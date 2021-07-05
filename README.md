@@ -12,6 +12,13 @@
 3. Feature Selection.
 4. Model creation. 
 
+**Algorithms Tried** ---
+1. Lasso Regression.
+2. Ridge Regression.
+3. Random Forest.
+4. XGBoost
+5. Linear Regression.
+
 **Learnings** --- 
 1. Learnt how to handle missing values .
 2. Depict feature importance and how to remove features having high correlation.
